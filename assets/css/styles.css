@@ -1,0 +1,23 @@
+.body {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer hr {
+    margin-bottom: 0;
+    height: 10px;
+}
+
+/* Boostrap Complementary Styles */
+.navbar .navbar-brand {
+    font-weight: 700;
+    font-size: 2em;
+}
+
+.theme-color {
+    color: #4aaaa5;
+}
+
+.theme-background {
+    background-color: #4aaaa5;
+}
